@@ -221,5 +221,5 @@ This project is licensed under the BSD License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or issues, please reach out to:
 
-- **Project Maintainer**: Richardson Edson de Lima
+- **Project Maintainer**: Richardson Lima (Rick)
 - **Email**: contato at richardsonlima dot com dot br
