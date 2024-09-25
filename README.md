@@ -1,9 +1,9 @@
 
-# The Ultimate Knowledge Base Curator
+# The ALKB Curator
 
 ## Project Overview
 
-**The Ultimate Knowledge Base Curator** is a Python project designed to build a dynamic, secure, and compliant knowledge base for AI systems. The project ensures that AI interactions are precise, regulated, and enhanced by expert contributions, creating an evolving knowledge base that adapts to changing business and regulatory needs.
+**The ALKB Curator** is a Python project designed to build a dynamic, secure, and compliant knowledge base for AI systems. The project ensures that AI interactions are precise, regulated, and enhanced by expert contributions, creating an evolving knowledge base that adapts to changing business and regulatory needs.
 
 ### Key Features:
 
@@ -32,7 +32,7 @@
 ## Project Structure
 
 ```bash
-ultimate_kb_curator/
+ALKB-Curator/
 │
 ├── README.md                # Project documentation
 ├── .gitignore               # Files to ignore in version control
@@ -77,8 +77,8 @@ python --version
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/yourusername/ultimate_kb_curator.git
-cd ultimate_kb_curator
+git clone https://github.com/yourusername/ALKB-Curator.git
+cd ALKB-Curator
 ```
 
 ### Step 2: Create a Virtual Environment
